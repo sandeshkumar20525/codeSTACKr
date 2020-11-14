@@ -20,6 +20,7 @@
 
 </details>
 [twitter]: https://twitter.com/Sandesh89472455
+<a href="https://www.instagram.com/mentalbabu143/">INSTAGRAM</a>
 [instagram]: https://instagram.com/mentalbabu143
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
