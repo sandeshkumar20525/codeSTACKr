@@ -21,7 +21,7 @@
 </details>
 [twitter]: https://twitter.com/Sandesh89472455
 <img src="/img/profile.jpg" alt="sadesh kumar" /><a  href="https://www.instagram.com/mentalbabu143/">INSTAGRAM</a>
-<img src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="sadesh kumar" />
+<img src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png400x400" alt="sadesh kumar" />
 [instagram]: https://instagram.com/mentalbabu143
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
